@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365810353657",
+    "project_id": "uber-eats-hooks-f75c3",
+    "storage_bucket": "uber-eats-hooks-f75c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365810353657:android:fbcf2c0cc84109bf6a6928",
+        "android_client_info": {
+          "package_name": "com.uber_eats_hooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365810353657-5l7ecra9qbpp5v4hjbjoqc4dnlen85gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgPz7RgFK3B9JCTs1Hrtf09S_5AOBKcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365810353657-5l7ecra9qbpp5v4hjbjoqc4dnlen85gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
